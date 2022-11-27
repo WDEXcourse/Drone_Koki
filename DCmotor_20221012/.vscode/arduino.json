@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.2ch-SerialPort-1"
+}
