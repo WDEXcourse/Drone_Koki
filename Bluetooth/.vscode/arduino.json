@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/tty.usbmodem14201",
-    "sketch": "Bluetooth.ino"
+    "sketch": "RN42/RN42.ino"
 }
