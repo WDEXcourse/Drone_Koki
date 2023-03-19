@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Bluetooth/Bluetooth.ino",
-    "port": "/dev/tty.usbmodem14201"
+    "sketch": "Joystick/Joystick.ino",
+    "port": "/dev/ttyACM0"
 }
