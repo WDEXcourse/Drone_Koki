@@ -83,7 +83,7 @@ void loop() {
 
   if (X_POS <= 512-512*OFFSET)
   {
-   DUTY = map(X_POS) /* code */
+   DUTY = map(X_POS) /* code */ 
   }
   
 
